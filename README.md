@@ -1,10 +1,4 @@
-下面是结合你当前项目结构和任务要求撰写的 README.md 模板，符合一般开源项目提交规范，也适配作业交付的格式要求：
-
-⸻
-
-
-
-# Math Text Classification with FastText
+# isMathtext
 
 本项目使用 FastText 对 WebText 文本进行分类，识别其中是否属于数学领域。
 
